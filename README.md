@@ -23,3 +23,8 @@ Configure and execute the script.
 
 ## distance & metrics computation model
 ![model_graphviz](./graphviz2.png)
+
+
+### Credits 
+For their contributions to this scientific field : 
+Frank Nielsen (Sony), Gabriel Peyre (NYU & CNRS), Peyman Milanfar (Google)
