@@ -21,9 +21,5 @@ pdflatex distance_formulas.tex
 Create a folder named documents, paste the data you want to find distances with, text files IE. 
 Configure and execute the script.
 
-## Model
-### Sum up : 
-![Phases](./phases.png)
-
-### distance & metrics computation model
+## distance & metrics computation model
 ![model_graphviz](./graphviz2.png)
