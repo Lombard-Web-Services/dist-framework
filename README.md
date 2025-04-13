@@ -3,7 +3,7 @@ Distance(s) and metric(s) calculation framework. A framework in python for disco
 
 ## Model of calculation of new formulas
 Sum up : 
-![Phases]([http://url/to/img.png](https://github.com/Lombard-Web-Services/dist-framework/blob/main/phases.png?raw=true))
+![Phases]([[http://url/to/img.png](https://raw.githubusercontent.com/Lombard-Web-Services/dist-framework/refs/heads/main/phases.png)
 
 
 ## Install
