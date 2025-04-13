@@ -1,0 +1,6 @@
+Operator,Python,TeX
++,Yes,\+
+-,Yes,-
+*,Yes,\times
+/,Yes,\div
+^,Yes,\^
